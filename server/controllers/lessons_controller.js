@@ -6,7 +6,7 @@ LessonsController = function(){
 	var _this = LessonsController;
 	
 	_this.prototype.set_lessons = function(class_id, user_id, lesson_name, lesson_date){
-		// Default: Do nothing
+		// TODO
 	};
 };
 

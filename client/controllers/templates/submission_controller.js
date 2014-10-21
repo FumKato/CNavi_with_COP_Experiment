@@ -2,15 +2,15 @@ SubmissionController = function(){
 	var _this = SubmissionController;
 	
 	_this.prototype.back_button_clicked = function(){
-		// Default: do nothing
+		// TODO
 	};
 	
 	_this.prototype.submission_button_clicked = function(){
-		// Default: do nothing
+		// TODO
 	};
 	
 	_this.prototype.registration_button_clicked = function(){
-		// Default: do nothing
+		// TODO
 	};
 };
 

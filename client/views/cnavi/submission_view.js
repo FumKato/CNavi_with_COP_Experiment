@@ -2,17 +2,15 @@ SubmissionView = function(){
 	var _this = SubmissionView;
 	
 	_this.prototype.get_lesson_name = function(){
-		var lesson = lessons_model.get_lessons_by_id(Session.get('lesson_id'));
-		if(lesson == null) return;
-		return lesson.name;
+		// TODO
 	};
 	
 	_this.prototype.render_answer = function(num, question){
-		return '<div class="questionAnswerForm"> <input type="text" class="questionAnswerTextForm" name=" + ' + question + '"/></div>';
+		// TODO
 	};
 	
 	_this.prototype.render_button = function(){
-		return '';
+		// TODO
 	};
 };
 

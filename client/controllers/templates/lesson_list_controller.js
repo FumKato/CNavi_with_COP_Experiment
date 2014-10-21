@@ -2,11 +2,11 @@ LessonListController = function(){
 	var _this = LessonListController;
 	
 	_this.prototype.lesson_list_item_clicked = function($this){
-		Session.set('lesson_id', $this.attr('id'));
+		// TODO
 	};
 	
 	_this.prototype.create_button_clicked = function(){
-		// Default: do nothing
+		// TODO
 	};
 };
 

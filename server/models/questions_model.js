@@ -9,7 +9,7 @@ QuestionsModel = function(){
 	};
 	
 	_this.prototype.get_questions_by_lesson_id = function(user, lesson_id){
-		// Default: Do nothing
+		// TODO
 	};
 };
 

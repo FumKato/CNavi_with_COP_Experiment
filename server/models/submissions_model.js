@@ -43,7 +43,7 @@ SubmissionsModel = function(){
 	};
 	
 	_this.prototype.get_submissions_by_lesson_id = function(user, lesson_id){
-		// Default: Do nothing
+		// TODO
 	};
 };
 

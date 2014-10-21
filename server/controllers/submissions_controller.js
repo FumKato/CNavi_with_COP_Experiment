@@ -9,11 +9,11 @@ SubmissionsController = function(){
 	var _this = SubmissionsController;
 	
 	_this.prototype.set_answers = function(lesson_id, user_id, answers){
-		return users_model.get_users_by_user_id(user_id);
+		// TODO
 	};
 	
 	_this.prototype.set_scores = function(lesson_id, user_id, scores){
-		return users_model.get_users_by_user_id(user_id);
+		// TODO
 	};
 };
 

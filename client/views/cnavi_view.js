@@ -12,9 +12,7 @@ CNaviView = function(){
 	};
 	
 	_this.prototype.render_header = function(user){
-		if(user == null) {
-			return '<div id="header"><div id="logo">CNavi</div><div id="headerName"></div></div>';
-		}
+		// TODO
 	};
 };
 

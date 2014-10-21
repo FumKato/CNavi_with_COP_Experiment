@@ -21,11 +21,11 @@ Template.lesson_list.helpers({
 LessonListView = function(){
 	var _this = LessonListView;
 	_this.prototype.get_lesson_list_item_class = function(lesson){
-		return "lessonListItem";
+		// TODO
 	};
 	
 	_this.prototype.render_button = function(){
-		return '';
+		// TODO
 	};
 };
 

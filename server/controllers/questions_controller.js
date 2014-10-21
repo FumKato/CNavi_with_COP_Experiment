@@ -9,7 +9,7 @@ QuestionsController = function(){
 	var _this = QuestionsController;
 	
 	_this.prototype.set_questions = function(lesson_id, user_id, questions, answers){
-		// Default: Do nothing
+		// TODO
 	};
 };
 
